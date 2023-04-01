@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348715673199",
+    "project_id": "signup-login-football",
+    "storage_bucket": "signup-login-football.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348715673199:android:680bdffd69f7903bd80f9a",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348715673199-3je7ie8u95g0h5mvn3dr6nqpdbdbuiju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHPy0oI4UjNKcBjoPqOqaKgjEo6g2-8KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348715673199-3je7ie8u95g0h5mvn3dr6nqpdbdbuiju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
